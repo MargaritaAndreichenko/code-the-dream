@@ -35,3 +35,6 @@ artwork url
 * [JavaScript fetch API](https://www.javascripttutorial.net/javascript-fetch-api/)
 * [CSS to display images](https://www.w3schools.com/css/css_image_gallery.asp)
 * [Stackoverflow](https://stackoverflow.com/)
+
+### Tools and IDEs
+* [VS Code](https://code.visualstudio.com/)
